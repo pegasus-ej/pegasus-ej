@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, nós somos a Pegasus
 
-<!--
-**pegasus-ej/pegasus-ej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Quem Somos
 
-Here are some ideas to get you started:
+## 💼 O que é uma Empresa Júnior?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌎 Movimento Empresa Júnior
+
+## 👥 Diretoria Atual
+
+## 📊 Diretoria de Projetos – Linha do Tempo
+
+## 🛠️ Tecnologias que Utilizamos
+
+## 📂 Nossos Projetos
+
+## 📬 Contato e Redes Sociais
