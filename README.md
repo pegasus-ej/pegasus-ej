@@ -37,6 +37,12 @@ Ser uma **empresa referência no ramo da tecnologia na região do Vale do Ivaí*
 5. Agimos com postura profissional em todos os ambientes
 6. Somos proativos na busca por impacto e melhoria contínua
 
+<br><br>
+
+<div align="center">Onde a inovação começa com pessoas e termina em impacto</div>
+
+<br>
+
 ## 💼 O que é uma Empresa Júnior?
 
 Uma Empresa Júnior (EJ) é uma **empresa formada apenas por estudantes**, porém diferente de uma empresa normal que busca lucro para seus sócios, uma **EJ reinveste todo seu lucro na própria organização e na capacitação dos membros**.
@@ -46,6 +52,12 @@ Toda EJ faz parte do Movimento Empresa Júnior (MEJ) organizado nacionalmente pe
 - Metas e Indicadores
 - Rede nacional de impacto
 
+<br><br>
+
+<div align="center">Você vai continuar apenas contratando mais um serviço ou fará parte de um movimento que transforma pessoas?</div>
+
+<br>
+
 ## 🌎 Movimento Empresa Júnior
 
 Conhecido como MEJ, é um movimento nacional formado por estudantes universitários que fundam e gerem empresas dentro da universidade, tendo como objetivo **gerar impacto real na sociedade** e formar profissionais mais preparados, éticos e empreendedores por meio da prática.
@@ -54,6 +66,41 @@ Conhecido como MEJ, é um movimento nacional formado por estudantes universitár
 
 ## 🛠️ Tecnologias que Utilizamos
 
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px" />
+    <img width="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px" />
+    <img width="40px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" />
+    <img width="40px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="40px" />
+    <img width="40px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px" />
+    <img width="40px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40px" />        
+</div>       
+
 ## 📂 Nossos Serviços
+- Identidade Visual
+- Websites
+- Sistemas
+- Aplicativos Mobile
+
+<br><br>
+
+<div align="center">Com a Pegasus, sua ideia deixa o papel e conquista o mundo!</div>
+
+<br>
 
 ## 📬 Contato e Redes Sociais
+<div align="left">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+  </a>
+  <a href="https://www.instagram.com/pegasus.ej/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+    <a href="https://www.linkedin.com/company/pegasus-ej/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
