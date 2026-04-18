@@ -2,7 +2,7 @@
 
 # 👋 Olá, nós somos a Pegasus
 
-<img src="#" width="220px"/>
+<img src="img/banner_readme.JPG" width="700px"/>
 
 ### 💜 Mais do que tecnologia, formamos pessoas
 
@@ -10,7 +10,7 @@
 
 - 🎓 Empresa Júnior de Ciência da Computação — UNESPAR  
 - 🚀 Empresa formada apenas por estudantes  
-- 🌎 Integrante do NejLon — FEJEPAR  
+- 🌎 NejLon — FEJEPAR  
 
 </div>
 
@@ -96,6 +96,38 @@ Conhecido como **MEJ**, é um movimento nacional formado por estudantes universi
 ---
 
 ## 📊 Diretoria de Projetos – Linha do Tempo
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="img/fotos_diretores/diretor2026.jpg" width="110px"/><br>
+
+**[João Vitor C. Domingos](https://www.linkedin.com/in/jvdomingos/)**<br>
+📅 2026
+</td>
+
+<!--
+
+<td align="center">
+<h2>➡️</h2>
+</td>
+
+<td align="center">
+<img src="LINK_2023" width="110px"/><br>
+
+**Prox...**  
+📅 2027
+</td>
+
+-->
+
+</tr>
+</table>
+
+</div>
 
 <br>
 
