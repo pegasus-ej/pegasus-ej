@@ -2,7 +2,7 @@
 
 # 👋 Olá, nós somos a Pegasus
 
-<img src="img/banner_readme.JPG" width="700px"/>
+<img src="img/banner_readme.jpg" width="700px"/>
 
 ### 💜 Mais do que tecnologia, formamos pessoas
 
